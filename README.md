@@ -1,1 +1,1 @@
-Projeto de estudos onde criamos um sistema de gerenciamento de um centro de treinamento onde podemos cadastrar os atletas, as categorias  do atleta e os centros de treinamento tamem no sistema, vinculado auma base de dados!!!!!
+Projeto de estudos onde criamos um sistema de gerenciamento de um centro de treinamento onde podemos cadastrar os atletas, as categorias  do atleta e os centros de treinamento tamem no sistema, vinculado a uma base de dados!!!!!
